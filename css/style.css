@@ -46,15 +46,16 @@ p:last-child {
 }
 
 /*
+ * d74e34
  * Selection color
  */
 ::-moz-selection {
-  background-color: #a37800;
+  background-color: #d74e34;
   color: #fff;
 }
 
 ::selection {
-  background-color: #a37800;
+  background-color: #d74e34;
   color: #fff;
 }
 
@@ -103,7 +104,7 @@ label {
 }
 
 .btn-primary {
-  background-color: #a37800;
+  background-color: #d74e34;
   border: 0;
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
@@ -158,7 +159,7 @@ label {
 
 .primary,
 .link:hover {
-  color: #a37800;
+  color: #d74e34;
 }
 
 .no-gutter {
@@ -186,7 +187,7 @@ label {
 }
 
 .nicescroll-cursors {
-  background: #a37800 !important;
+  background: #d74e34 !important;
 }
 
 .preloader {
@@ -204,7 +205,7 @@ label {
 }
 
 .loading-mask {
-  background-color: #a37800;
+  background-color: #d74e34;
   height: 100%;
   left: 0;
   position: absolute;
@@ -240,7 +241,7 @@ label {
 	Start Styling
 -------------------------------------------------*/
 .site-wrapper {
-  border-top: 4px solid #a37800;
+  border-top: 4px solid #d74e34;
 }
 
 .page-close {
@@ -302,7 +303,7 @@ label {
   bottom: 14px;
 }
 .section-title h3::after {
-  background-color: #a37800;
+  background-color: #d74e34;
   width: 73px;
 }
 .section-title.light h3 {
@@ -370,7 +371,7 @@ label {
 }
 .hexagon-item:hover .hex-item div::before,
 .hexagon-item:hover .hex-item div::after {
-  background-color: #a37800;
+  background-color: #d74e34;
 }
 .hexagon-item:hover .hex-content svg {
   transform: scale(0.97);
@@ -546,7 +547,7 @@ label {
   flex-grow: 1;
 }
 .progress .bar {
-  background-color: #a37800;
+  background-color: #d74e34;
   border-radius: 10px;
   height: 8px;
   width: 0;
@@ -567,8 +568,8 @@ label {
   border-bottom: 2px solid transparent;
 }
 .filter .active {
-  color: #a37800;
-  border-bottom-color: #a37800;
+  color: #d74e34;
+  border-bottom-color: #d74e34;
 }
 
 .works-item {
@@ -608,7 +609,7 @@ label {
   transform: translate3d(0px, 0px, 0px) scale(0);
 }
 .works-item h4 {
-  color: #a37800;
+  color: #d74e34;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -758,7 +759,7 @@ label {
   transform: scale(1.5);
 }
 .service-hex:hover .st1 {
-  fill: #a37800;
+  fill: #d74e34;
 }
 .service-hex:hover .content {
   width: 135%;
@@ -854,7 +855,7 @@ label {
   display: none;
 }
 .testimonials .slick-dots .slick-active button {
-  border-color: #a37800;
+  border-color: #d74e34;
 }
 
 .tm-hex {
@@ -971,13 +972,13 @@ label {
   transform: translate(-50%, -50%);
 }
 .contact-social li:hover span {
-  background-color: #a37800;
+  background-color: #d74e34;
 }
 .contact-social li:hover span::before {
-  border-bottom-color: #a37800;
+  border-bottom-color: #d74e34;
 }
 .contact-social li:hover span::after {
-  border-top-color: #a37800;
+  border-top-color: #d74e34;
 }
 
 .contact-social-hex {
@@ -1007,10 +1008,10 @@ label {
   border-top: 12.41px solid #1e2530;
 }
 .contact-social-hex:hover::after {
-  border-bottom-color: #a37800;
+  border-bottom-color: #d74e34;
 }
 .contact-social-hex:hover::before {
-  border-top-color: #a37800;
+  border-top-color: #d74e34;
 }
 
 .contact-form .input-field {
@@ -1072,7 +1073,7 @@ label {
 }
 
 .msg-success {
-  color: #a37800;
+  color: #d74e34;
 }
 
 .pt-table.desktop-768 .pt-tablecell {
@@ -1179,7 +1180,7 @@ label {
 }
 
 .color-options li.c0 {
-  background-color: #a37800;
+  background-color: #d74e34;
 }
 
 .color-options li.c1 {
